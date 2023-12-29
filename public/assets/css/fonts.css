@@ -1,0 +1,51 @@
+
+@font-face {
+      font-family: 'Raleway';
+      font-style: normal;
+      font-weight: 700;
+      font-display: block;
+      src: url("/assets/fonts/roboto.woff2") format('woff2');
+      unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    }
+
+ @font-face {
+        font-display: block;
+        font-family:"Lulo-Clean-W01-One-Bold";
+        src:url("/assets/fonts/lulo.woff2") format("woff2");
+    }
+@font-face {
+        font-display: block;
+        font-family:"Futura-LT-W01-Book";
+        src:url("/assets/fonts/futura.woff2") format("woff2");
+    }
+
+    @font-face { 
+        font-family: "Montserrat"; 
+        src: local("Montserrat Bold"), 
+        local("Montserrat-Bold"), 
+        url("/assets/fonts/mont.woff2") 
+        format("woff2"); font-style: normal; font-weight: 700; font-display: block; unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; 
+    }
+
+    @font-face { 
+        font-family: "Poppins-SemiBold"; 
+        src: url("/assets/fonts/poppin.woff2") format("woff2"); 
+        font-display: block; 
+    }
+
+    @font-face { 
+        font-family: "Roboto"; 
+        src: url("/assets/fonts/roboto.woff2") format("woff2"); 
+        font-style: normal; 
+        font-weight: 300; 
+        unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; 
+    }
+
+    @font-face { 
+        font-family: "Montserrat"; 
+        src: local("Montserrat Regular"),
+        url("/assets/fonts/montr.woff2") format("woff2"); 
+        font-style: normal; 
+        font-weight: 400; 
+        unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; 
+    }
